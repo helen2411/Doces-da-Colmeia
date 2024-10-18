@@ -52,7 +52,7 @@ As ferramentas citadas abaixo auxiliarão na criação da logomarca, estilizaç�
 
 O público alvo de nossa empresa são amantes de doces e salgados, que priorizam produtos de alta qualidade, com grande variedade de opções e preços justos. 
 
-**Gênero:** segundo pesquisas realizadas, as mulheres consomem mais doces que os homens, sendo esse o público principal.
+**Gênero:** Homens e Mulheres.
 
 **Faixa Etária:** 15 a 65 anos. 
 
