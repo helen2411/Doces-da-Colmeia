@@ -8,7 +8,8 @@
 
 # Marca📍
 
-![Design sem nome.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/63de54a5-070c-4937-bd9c-1295092e4c98/e046190c-78e5-4538-a461-e67eb984f9a9/Design_sem_nome.png)
+![Design sem nome (3)](https://github.com/user-attachments/assets/1eec3d83-5c39-422f-99e9-31614005b94c)
+
 
 # Objetivo 📉
 
