@@ -85,6 +85,6 @@ O público alvo de nossa empresa são amantes de doces e salgados, que priorizam
     - [ ]  Confirmar forma de pagamento e informações adicionais.
         - Usuário vai colocar sua forma de pagamento e endereço para ser calculado o frete.
 - Fluxo3
-    - [ ]  Pagina do Sobre Nós.
+    - [ ]  Pagina Sobre Nós.
         - Vai contar um pouco da historia da empresa e seus colaboradores, e contato profissional.
  Projeto Senai
