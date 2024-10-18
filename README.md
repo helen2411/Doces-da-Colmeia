@@ -1,5 +1,6 @@
 # Doces-da-Colmeia
 
+
 # Colaboradores🙍‍♀️
 
 - Milena Stéfany
@@ -13,9 +14,7 @@
 
 # Objetivo 📉
 
-Há alguns anos, a confeitaria Doces da Colmeia tem usado o Instagram para expor seus produtos, contatar clientes, divulgar o catálogo, promoções e sorteios. Porém, recentemente, a empresa começou a receber algumas críticas construtivas sobre como a divulgação dos produtos estava antiquada para o tamanho da empresa, pois ela havia crescido muito durante a pandemia e suas vendas aumentaram exponencialmente, com isso houve a necessidade de criar um site para facilitar a visualização do portfólio e fomentar o aumento das encomendas.
-
-Será necessário criar um site simples e de navegação intuitiva para a empresa Doces da Colmeia. Seu layout deverá ser prático, onde todo o público que acessar o site encontre o que deseja com facilidade.  
+Criação de um site simples e de navegação intuitiva para a empresa Doces da Colmeia. Seu layout deverá ser prático, onde todo o público que acessar o site encontre o que deseja com facilidade.  
 
  O site deverá apresentar todo o cardápio da empresa, promoções, combos e garantir o acesso e credibilidade com assinaturas mensais. 
 
